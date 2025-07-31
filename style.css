@@ -1,0 +1,40 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: #f9f9f9;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+header {
+  background: #6200ea;
+  color: white;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+main {
+  max-width: 700px;
+  margin: auto;
+  padding: 2rem;
+}
+
+.routine .item {
+  background: #e1f5fe;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-left: 5px solid #0288d1;
+  border-radius: 8px;
+}
+
+.routine .item h2 {
+  margin: 0;
+  color: #0288d1;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #6200ea;
+  color: white;
+}
